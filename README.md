@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+* 一个在医院工作的宅男
 <!--
 **TangentLe/TangentLe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
